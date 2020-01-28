@@ -1,0 +1,22 @@
+.footer{
+  background-color: #3492D3;
+  height: 120px;
+  text-align: center;
+	position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.social-media{
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+
+.git{
+  margin: 1em;
+}
+
+.linkin{
+  margin: 1em;
+}
