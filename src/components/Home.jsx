@@ -179,7 +179,7 @@ class Home extends React.Component {
         </div>
       </div>
       <div className= "Art-Archive">
-        <a className="nav-link" href="/Warning">Jacob's Art, Art Archives</a>
+        <a className="nav-link" href="/Warning">Jacob's, Art Archives</a>
       </div>
 
 
