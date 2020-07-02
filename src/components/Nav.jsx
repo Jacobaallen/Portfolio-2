@@ -21,7 +21,7 @@ class Nav extends Component{
             <a className="nav-link" href="/#about">About</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/Art">Art Archive</a>
+            <a className="nav-link" href="/Warning">Design and Artwork</a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="/#languages">Languages</a>
