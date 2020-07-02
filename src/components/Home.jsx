@@ -14,13 +14,12 @@ class Home extends React.Component {
       <div className="hero-image" id="home">
         <div className="hero-text-master">
           <div className="hero-text" >
-            <p>Hi, I'm Jacob A. Allen</p>
-          </div>
-          <div className="hero-text-2">
-            <div className="typewriter-hero-text-2"> I'm a Full Stack Web Developer</div>
-          </div>
-          <div className="hero-text-3">
-            <div className="typewriter-hero-text-3"> And I'm looking for a job</div>
+            <p>Hi, I'm Jacob A. Allen,</p>
+            <span
+              class="txt-rotate"
+              data-period="2000"
+              data-rotate='[ "and I am a Web Developer and Graphic Designer", "Let me build your website"]'>
+            </span>
           </div>
         </div>
       </div>
@@ -179,7 +178,7 @@ class Home extends React.Component {
         </div>
       </div>
       <div className= "Art-Archive">
-        <a className="nav-link" href="/Warning">Jacob's, Art Archives</a>
+        <a className="nav-link" href="/Warning">Jacob's, design and art work.</a>
       </div>
 
 
@@ -212,7 +211,7 @@ class Home extends React.Component {
 
         <div className="icons-4">
           <img src="images/email-icon.png" alt="email" height="100" />
-          <p>boat.mon@gmail.com</p>
+          <p>jacob@jacobaallen.com</p>
         </div>
         <div className="icons-5">
           <img src="images/phone-icon-circle.png" alt="phone" height="100" width="100"/>
