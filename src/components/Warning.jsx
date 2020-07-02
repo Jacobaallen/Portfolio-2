@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/warning.css';
 
 
-class Art extends React.Component {
+class warning extends React.Component {
  render() {
    return (
      <div className="warning">
@@ -20,4 +20,4 @@ class Art extends React.Component {
  }
 }
 
-export default Art;
+export default warning;
