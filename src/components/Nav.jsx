@@ -30,6 +30,9 @@ class Nav extends Component{
             <a className="nav-link" href="/#portfolio">Portfolio</a>
           </li>
           <li className="nav-item">
+            <a className="nav-link" href="/WebPortfolio">Web Portfolio</a>
+          </li>
+          <li className="nav-item">
             <a className="nav-link" href="/#contact">Contact</a>
           </li>
         </ul>
