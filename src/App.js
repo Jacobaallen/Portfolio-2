@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Nav from './components/Nav';
 import Warning from './components/Warning';
 import Artarchive from './components/Artarchive';
+import WebPortfolio from './components/WebPortfolio';
 
 
 class App extends React.Component {
@@ -15,6 +16,7 @@ class App extends React.Component {
         <Route exact path="/" component={Home} />
         <Route exact path="/warning" component={Warning} />
         <Route exact path="/artarchive" component={Artarchive} />
+        <Route exact path="/WebPortfolio" component={WebPortfolio} />
         <Footer/>
       </Router>
     )
