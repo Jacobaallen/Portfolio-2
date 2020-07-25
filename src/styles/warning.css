@@ -14,6 +14,11 @@ body {
   background-color: #4ABCFC;
 }
 
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
 @media only screen and (max-width: 1070px) {
   .warning {
     text-align: center;
