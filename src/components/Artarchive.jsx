@@ -203,10 +203,60 @@ class Artarchive extends React.Component {
                <div className="flip-card">
                <div className="flip-card-inner">
                    <div className="flip-card-front">
+                     <img src="images/drawing-15-gintama.png" alt="draw" width=  "550" height= "300"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>End of gintama in Shonen Jump Weekly Comic</h3>
+                     <p>2018</p>
+                     <p>Pencil on paper</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+         <div className="row-1">
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+               <div className="flip-card-inner">
+                   <div className="flip-card-front">
                      <img src="images/drawing-8-2017.JPG" alt="draw" width=  "550" height= "300"/>
                    </div>
                    <div className="flip-card-back">
                      <h3>Luffy taking a nap.</h3>
+                     <p>2017</p>
+                     <p>Pencil on paper</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+               <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/drawing-13-2017.png" alt="draw" width=  "550" height= "300"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>Nami Taking a Break on The Clouds</h3>
+                     <p>2017</p>
+                     <p>pencil and color pencil on paper</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+               <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/drawing-14-2017.JPG" alt="draw" width=  "550" height= "300"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>R2 D2 on Star Wars Day.</h3>
                      <p>2017</p>
                      <p>Pencil on paper</p>
                    </div>
