@@ -44,8 +44,9 @@ class Home extends React.Component {
           Languages: HTML5, CSS3, JavaScript, PHP, Ruby
         </p>
         <p>
-          Libraries: JQuery, React.JS, AngularJS, Rails, React on Rails
+          Libraries: React.JS, AngularJS, Rails, React on Rails
         </p>
+        <p>Programs: Adobe Photoshop, Adobe Indesign, Adobe Animate, Adobe After Effects, Adobe Illustrator, Imovie, Word, Excel, Pages, Numbers, Keynote, Atom, VSCode </p>
       </div>
       <div className="button-master">
           <div className="resume-download">
@@ -56,13 +57,6 @@ class Home extends React.Component {
         </div>
       </div>
     </div>
-  </div>
-
-  <div className="Languages-text">
-    <h1>Programming Languages</h1>
-  </div>
-  <div className="Languages" id="languages">
-    <Languages/>
   </div>
 
   <div className="bgimage-2" id="portfolio">
