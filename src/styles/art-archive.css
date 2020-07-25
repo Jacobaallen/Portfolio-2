@@ -86,3 +86,87 @@ body {
   color: white;
   transform: rotateY(180deg);
 }
+
+@media only screen and (max-width: 1070px) {
+  .bgimage-2 {
+    background-image: url("/images/IMG_0120.jpeg");
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    background-attachment: fixed;
+  }
+
+  .portfolio{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 10px;
+  }
+
+  .row-1{
+    display: flex;
+    justify-content:space-around;
+    margin: 5rem;
+    align-items: center;
+  }
+
+  .row-4{
+    display: flex;
+    justify-content:space-around;
+    margin: 5rem;
+    align-items: center;
+  }
+
+  .row-3{
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+    align-items: center;
+  }
+
+  .flip-card {
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    perspective: 100px;
+  }
+
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+
+  .flip-card-front {
+    background-color: white;
+    color: black;
+  }
+
+  .flip-card-back {
+    background-color: #3492D3;
+    color: white;
+    transform: rotateY(180deg);
+  }
+}
