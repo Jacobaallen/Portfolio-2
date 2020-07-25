@@ -24,9 +24,6 @@ class Nav extends Component{
             <a className="nav-link" href="/Warning">Design and Artwork</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/#languages">Languages</a>
-          </li>
-          <li className="nav-item">
             <a className="nav-link" href="/#portfolio">Portfolio</a>
           </li>
           <li className="nav-item">
