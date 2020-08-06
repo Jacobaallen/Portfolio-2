@@ -21,6 +21,22 @@ class Artarchive extends React.Component {
               <div className="flip-card">
               <div className="flip-card-inner">
                   <div className="flip-card-front">
+                    <img src="images/News-stories-2.png" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>Anime Fan Helper News design</h3>
+                    <p>2019- ongoing</p>
+                    <p>I created all the diffenerent disigns that apper on <a href="http://www.animefanhelper.com/index.html">Anime Fan Helper</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+              <div className="flip-card-inner">
+                  <div className="flip-card-front">
                     <img src="images/drawing-6-2020.JPG" alt="draw" width=  "550" height= "300"/>
                   </div>
                   <div className="flip-card-back">
@@ -48,17 +64,54 @@ class Artarchive extends React.Component {
               </div>
             </div>
           </div>
+        </div>
+        <div className="row-4">
           <div className="responsive">
             <div className="gallery">
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="images/drawing-4-2019.JPG" alt="draw" width=  "450" height= "600"/>
+                    <img src="images/tshirt-concept-design.png" alt="draw" width=  "450" height= "600"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>Usopp thinking of what to draw.</h3>
+                    <h3>Tshirt Concept Design</h3>
+                    <p>2019</p>
+                    <p>pencil on paper, Ipad Draw, Adobe Photoshop, Adobe Illustrator</p>
+                    <p>Designed for a Art Gallery called Artec House, but never heard back from them after submiting the designs.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/Hotaru-taking-a-selfie.png" alt="guitar" width=  "300" height= "400"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>Hotaru taking a selfie</h3>
+                    <p>2019</p>
+                   <p>Pencil on paper and screen capture from a Iphone</p>
+                   <p>Hotaru the main female character in Dagashi Kashi.</p>
+                 </div>
+               </div>
+             </div>
+           </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+              <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/one-piece-gold.JPG" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>Carina the Phantom Thief</h3>
                     <p>2019</p>
                     <p>Pencil on paper</p>
+                    <p>Carina is a character in the movie One Piece: Film Gold.</p>
                   </div>
                 </div>
               </div>
@@ -66,6 +119,22 @@ class Artarchive extends React.Component {
           </div>
         </div>
          <div className="row-4">
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+                 <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/drawing-4-2019.JPG" alt="draw" width=  "450" height= "600"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>Usopp thinking of what to draw.</h3>
+                     <p>2019</p>
+                     <p>Pencil on paper</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -85,30 +154,14 @@ class Artarchive extends React.Component {
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
-                 <div className="flip-card-inner">
+               <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/drawing-3-2018.png" alt="draw" width=  "400" height= "600"/>
+                     <img src="images/drawing-15-gintama.png" alt="draw" width=  "550" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Anime Mascot Celebration.</h3>
-                     <p>2017/2018</p>
-                    <p>Pencil on paper then digially colored in photoshop and photo taken by me too.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-           </div>
-           <div className="responsive">
-             <div className="gallery">
-               <div className="flip-card">
-                 <div className="flip-card-inner">
-                   <div className="flip-card-front">
-                     <img src="images/drawing-2-2018.png" alt="draw" width=  "500" height= "300"/>
-                   </div>
-                   <div className="flip-card-back">
-                     <h3>Luffy catching air.</h3>
-                     <p>2018</p>
-                     <p>Pencil on paper then digially colored in photoshop.</p>
+                     <h3>End of gintama in Shonen Jump Weekly Comic</h3>
+                     <p>2019</p>
+                     <p>Pencil on paper</p>
                    </div>
                  </div>
                </div>
@@ -116,6 +169,22 @@ class Artarchive extends React.Component {
            </div>
          </div>
            <div className="row-4">
+             <div className="responsive">
+               <div className="gallery">
+                 <div className="flip-card">
+                   <div className="flip-card-inner">
+                     <div className="flip-card-front">
+                       <img src="images/drawing-2-2018.png" alt="draw" width=  "500" height= "300"/>
+                     </div>
+                     <div className="flip-card-back">
+                       <h3>Luffy catching air.</h3>
+                       <p>2018</p>
+                       <p>Pencil on paper then digially colored in photoshop.</p>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+             </div>
              <div className="responsive">
                <div className="gallery">
                  <div className="flip-card">
@@ -148,24 +217,24 @@ class Artarchive extends React.Component {
                  </div>
                </div>
              </div>
-             <div className="responsive">
-               <div className="gallery">
-                 <div className="flip-card">
-                   <div className="flip-card-inner">
-                     <div className="flip-card-front">
-                       <img src="images/drawing-5-2018.png" alt="draw" width=  "450" height= "600"/>
-                     </div>
-                     <div className="flip-card-back">
-                       <h3>Fooly Cooly</h3>
-                       <p>2017/2018</p>
-                       <p>Pencil on paper then digially colored in photoshop.</p>
-                     </div>
+         </div>
+         <div className="row-4">
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+                 <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/drawing-5-2018.png" alt="draw" width=  "450" height= "600"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>Fooly Cooly</h3>
+                     <p>2017/2018</p>
+                     <p>Pencil on paper then digially colored in photoshop.</p>
                    </div>
                  </div>
                </div>
              </div>
-         </div>
-         <div className="row-1">
+           </div>
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -198,24 +267,24 @@ class Artarchive extends React.Component {
                </div>
              </div>
            </div>
+         </div>
+         <div className="row-4">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
-               <div className="flip-card-inner">
+                 <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/drawing-15-gintama.png" alt="draw" width=  "550" height= "300"/>
+                     <img src="images/drawing-3-2018.png" alt="draw" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>End of gintama in Shonen Jump Weekly Comic</h3>
-                     <p>2018</p>
-                     <p>Pencil on paper</p>
-                   </div>
-                 </div>
-               </div>
-             </div>
+                     <h3>Anime Mascot Celebration.</h3>
+                     <p>2017/2018</p>
+                    <p>Pencil on paper then digially colored in photoshop and photo taken by me too.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
            </div>
-         </div>
-         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -248,6 +317,8 @@ class Artarchive extends React.Component {
                </div>
              </div>
            </div>
+         </div>
+         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -264,8 +335,6 @@ class Artarchive extends React.Component {
                </div>
              </div>
            </div>
-         </div>
-         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -298,6 +367,8 @@ class Artarchive extends React.Component {
               </div>
             </div>
            </div>
+         </div>
+         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -314,8 +385,6 @@ class Artarchive extends React.Component {
                </div>
              </div>
            </div>
-         </div>
-         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -348,6 +417,8 @@ class Artarchive extends React.Component {
               </div>
             </div>
            </div>
+         </div>
+         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -364,8 +435,6 @@ class Artarchive extends React.Component {
                </div>
              </div>
            </div>
-         </div>
-         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -398,6 +467,8 @@ class Artarchive extends React.Component {
               </div>
             </div>
            </div>
+         </div>
+         <div className="row-4">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -414,8 +485,6 @@ class Artarchive extends React.Component {
                </div>
              </div>
            </div>
-         </div>
-         <div className="row-4">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -448,6 +517,8 @@ class Artarchive extends React.Component {
               </div>
             </div>
            </div>
+         </div>
+         <div className="row-4">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
