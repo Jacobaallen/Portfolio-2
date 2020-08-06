@@ -19,7 +19,7 @@ class WebPortfolio extends React.Component {
           <div className="responsive">
             <div className="gallery">
               <a href="http://www.animefanhelper.com">
-                <img src="images/AnimeFanHelper.png" alt="AnimeFanHelper" width="800" height="400"/>
+                <img src="images/afh-1.png" alt="AnimeFanHelper" width="800" height="400"/>
               </a>
               <div className="desc">Anime Fan Helper is a mulltifunction website that has anime related news stories, anime theme games, and your able to search for any anime you want using the Jikan API. I Created it in 2019. I continue to make new news story and videos for it.</div>
             </div>
@@ -34,14 +34,22 @@ class WebPortfolio extends React.Component {
           </div>
           <div className="responsive">
             <div className="gallery">
-              <a href="https://github.com/Jacobaallen/Ichi.world">
-                <img src="images/Untitle-Travel.png" alt="Untitle-Travel" width="800" height="400"/>
+              <a href="http://www.x1law.com">
+                <img src="images/x1law-website.png" alt="AnimeFanHelper" width="800" height="400"/>
               </a>
-              <div className="desc">This site current being built. It is a weekend travel app design to help users find things to do on the weekend. I am currently making it in 2019.</div>
+              <div className="desc">I did not create the site. I updated the SEO and a few of the pages as well as many of the images all in WordPress in 2020.</div>
             </div>
           </div>
         </div>
          <div className="row-2">
+           <div className="responsive">
+             <div className="gallery">
+               <a href="https://github.com/Jacobaallen/Ichi.world">
+                 <img src="images/Untitle-Travel.png" alt="Untitle-Travel" width="800" height="400"/>
+               </a>
+               <div className="desc">This site current being built. It is a weekend travel app design to help users find things to do on the weekend. I am currently making it in 2019.</div>
+             </div>
+           </div>
            <div className="responsive">
              <div className="gallery">
                <a href="https://beat-blender.herokuapp.com/">
@@ -58,16 +66,16 @@ class WebPortfolio extends React.Component {
                <div className="desc">Elder Tales is a game made for the terminal based on the anime "Log Horizon". I created it in 2019.</div>
              </div>
            </div>
-           <div className="responsive">
-             <div className="gallery">
-               <a href="https://github.com/rmbeavin/DishWish">
-                 <img src="images/dishwish.png" alt="dishwish" width="800" height="400"/>
-               </a>
-               <div className="desc">Dishwish was a team project made at Wyncode. I was a part of. We created it in 2018.</div>
-             </div>
-           </div>
          </div>
            <div className="row-2">
+             <div className="responsive">
+               <div className="gallery">
+                 <a href="https://github.com/rmbeavin/DishWish">
+                   <img src="images/dishwish.png" alt="dishwish" width="800" height="400"/>
+                 </a>
+                 <div className="desc">Dishwish was a team project made at Wyncode. I was a part of. We created it in 2018.</div>
+               </div>
+             </div>
            <div className="responsive">
              <div className="gallery">
                <a href="http://www.animefanhelper.com/whackaluffy.html">
@@ -84,16 +92,16 @@ class WebPortfolio extends React.Component {
                <div className="desc">Based on the most game popular ever made. Created in 2019.</div>
              </div>
            </div>
+         </div>
+         <div className="row-2">
            <div className="responsive">
              <div className="gallery">
-               <a href="http://www.animefanhelper.com/cowboybebopspacebattle.html">
-                 <img src="images/arcade-game-CBSB.png" alt="Cowboy-Bebop" width="800" height="400"/>
+               <a href="http://www.animefanhelper.com/space-invaders.html">
+                 <img src="images/arcade-game-si.png" alt="Space-invaders" width="800" height="400"/>
                </a>
-               <div className="desc">Based on the anime Cowboy Bebop comes a first person shooter game. Created in 2019.</div>
+               <div className="desc">Based on the most game popular ever made. Created in 2019.</div>
              </div>
            </div>
-         </div>
-         <div className="row-3">
            <div className="responsive">
              <div className="gallery">
                <a href="https://tourdeendofsummer.herokuapp.com/index.html">
@@ -110,14 +118,16 @@ class WebPortfolio extends React.Component {
                <div className="desc">A mock up ecommerce site I created using Adobe Muse in 2016.</div>
              </div>
            </div>
-           <div className="responsive">
-             <div className="gallery">
-               <a href="http://garyramey.com/student-work/gra2144c-sp2016/jallen/project1/index.html">
-                 <img src="images/event-site.png" alt="event" width="800" height="400"/>
-               </a>
-               <div className="desc">A mock up event site I created using Adobe Muse in 2016.</div>
+         </div>
+           <div className="row-3">
+             <div className="responsive">
+               <div className="gallery">
+                 <a href="http://garyramey.com/student-work/gra2144c-sp2016/jallen/project1/index.html">
+                   <img src="images/event-site.png" alt="event" width="800" height="400"/>
+                 </a>
+                 <div className="desc">A mock up event site I created using Adobe Muse in 2016.</div>
+               </div>
              </div>
-           </div>
          </div>
       </>
    )
