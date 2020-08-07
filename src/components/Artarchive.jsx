@@ -140,7 +140,7 @@ class Artarchive extends React.Component {
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/guitar-and-cand-2019.jpg" alt="guitar" width=  "400" height= "600"/>
+                     <img src="images/guitar-and-cand-2019.JPG" alt="guitar" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
                      <h3>Soul King Brook from One Piece Shark Guitar and his Cane</h3>
@@ -324,7 +324,7 @@ class Artarchive extends React.Component {
                <div className="flip-card">
                <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/drawing-14-2017.JPG" alt="draw" width=  "550" height= "300"/>
+                     <img src="images/drawing-14-2017.jpg" alt="draw" width=  "550" height= "300"/>
                    </div>
                    <div className="flip-card-back">
                      <h3>R2 D2 on Star Wars Day.</h3>
@@ -490,7 +490,7 @@ class Artarchive extends React.Component {
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/painting-2-2013.JPG" alt="painting" width=  "400" height= "600"/>
+                     <img src="images/painting-2-2013.jpg" alt="painting" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
                      <h3>In to the Sea</h3>
@@ -524,7 +524,7 @@ class Artarchive extends React.Component {
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/drawing-12-2012.jpg" alt="draw" width=  "500" height= "300"/>
+                     <img src="images/drawing-12-2012.JPG" alt="draw" width=  "500" height= "300"/>
                    </div>
                    <div className="flip-card-back">
                      <h3>Erasing Drawings 1</h3>
