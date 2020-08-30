@@ -14,7 +14,7 @@ class Home extends React.Component {
       <div className="hero-image" id="home">
         <div className="hero-text-master">
           <div className="hero-text" >
-            <p>Hi, I'm Jacob A. Allen,</p>
+            <p>Hi, I'm Jacob A. Allen</p>
             <span
               class="txt-rotate"
               data-period="2000"
@@ -34,10 +34,10 @@ class Home extends React.Component {
         <h1>About</h1>
       </div>
       <p>
-        I was born and raised in West Palm Beach, Florida. I am a recent graduate of Wyncode where I earned my certification as a Full Stack Web Developer. Before Wyncode,
+        I was born and raised in West Palm Beach, Florida. I am a graduate of Wyncode where I earned my certification as a Full Stack Web Developer. Before Wyncode,
         I studied studio art at Florida Atlantic University. I took post graduate courses in web design and publication design at Palm Beach State College while working
-        as a substitute teacher for the Palm Beach County School District. I decided to transform my art background into a technology based career and attended Wyncode.
-        This came about from my interest in technology and curiosity about how the web works. Learning how to create and invent the technology myself was the next logical step so I learned to code. Now I'm looking for a job where I can show my skills and improve with the company that hires me.
+        as a substitute teacher for the Palm Beach County School District. I combined my art background with coding to meet the needs of our growning technology based workforce.
+        I've focused on creating websites with an innovative and artistic vision. Now, I'd like to use my skills for the benefit of your organization.
       </p>
       <div className="list">
         <p>
@@ -46,7 +46,7 @@ class Home extends React.Component {
         <p>
           Libraries: React.JS, AngularJS, Rails, React on Rails
         </p>
-        <p>Programs: Adobe Photoshop, Adobe Indesign, Adobe Animate, Adobe After Effects, Adobe Illustrator, Imovie, Word, Excel, Pages, Numbers, Keynote, Atom, VSCode </p>
+        <p>Programs: Adobe Photoshop, Adobe Indesign, Adobe Animate, Adobe After Effects, Adobe Illustrator, Imovie, Word, Excel, Pages, Numbers, Keynote, Atom, VSCode, Shopify </p>
       </div>
       <div className="button-master">
           <div className="resume-download">
@@ -73,7 +73,7 @@ class Home extends React.Component {
            <a href="/WebPortfolio">
              <img src="images/websites-design-small.png" alt="AnimeFanHelper" width="800" height="600"/>
            </a>
-           <div className="desc">Website that I have development and worked on.</div>
+           <div className="desc">Websites.</div>
          </div>
        </div>
        <div className="responsive">
@@ -83,7 +83,7 @@ class Home extends React.Component {
            <a href="/Warning">
              <img src="images/art-design-2.png" alt="art" width="800" height="400"/>
            </a>
-           <div className="desc">My art work and design work.</div>
+           <div className="desc">Art and design.</div>
          </div>
        </div>
       </div>
