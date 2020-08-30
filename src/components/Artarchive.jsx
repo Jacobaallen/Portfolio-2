@@ -65,7 +65,7 @@ class Artarchive extends React.Component {
             </div>
           </div>
         </div>
-        <div className="row-4">
+        <div className="row-3">
           <div className="responsive">
             <div className="gallery">
               <div className="flip-card">
