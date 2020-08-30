@@ -90,7 +90,7 @@ class Artarchive extends React.Component {
                     <img src="images/Hotaru-taking-a-selfie.png" alt="guitar" width=  "300" height= "400"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>Hotaru taking a selfie</h3>
+                    <h3>Hotaru Taking a Selfie</h3>
                     <p>2019</p>
                    <p>Pencil on paper and screen capture from a Iphone</p>
                    <p>Hotaru is main female character in Dagashi Kashi.</p>
@@ -126,7 +126,7 @@ class Artarchive extends React.Component {
                      <img src="images/drawing-4-2019.JPG" alt="draw" width=  "450" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Usopp thinking of what to draw.</h3>
+                     <h3>Usopp Thinking of What to Draw</h3>
                      <p>2019</p>
                      <p>Pencil on paper</p>
                    </div>
@@ -176,7 +176,7 @@ class Artarchive extends React.Component {
                        <img src="images/drawing-2-2018.png" alt="draw" width=  "500" height= "300"/>
                      </div>
                      <div className="flip-card-back">
-                       <h3>Luffy catching air.</h3>
+                       <h3>Luffy Catching Air</h3>
                        <p>2018</p>
                        <p>Pencil on paper then digially colored in photoshop</p>
                      </div>
@@ -192,7 +192,7 @@ class Artarchive extends React.Component {
                        <img src="images/drawing-1-2018.png" alt="draw" width=  "550" height= "300"/>
                      </div>
                      <div className="flip-card-back">
-                       <h3>Leo and Sonic eating Lunch from Rocket Burger's in front of downtown NYC.</h3>
+                       <h3>Leo and Sonic Eating Lunch from Rocket Burger's in Front of Downtown NYC</h3>
                        <p>2017/2018</p>
                        <p>Pencil on paper, digially colored in photoshop, and photographed</p>
                      </div>
@@ -242,7 +242,7 @@ class Artarchive extends React.Component {
                      <img src="images/drawing-9-2018.png" alt="draw" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Pink Diamond reveals her plan to Pearl.</h3>
+                     <h3>Pink Diamond Reveals her Plan to Pearl</h3>
                      <p>2017/2018</p>
                     <p>Pencil on paper, digially colored in photoshop</p>
                   </div>
@@ -258,7 +258,8 @@ class Artarchive extends React.Component {
                      <img src="images/drawing-11-2018.png" alt="draw" width=  "550" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Shiny Chariot flying though the night sky. From Litte Witch Academia</h3>
+                     <h3>Shiny Chariot Flying Through the Night Sky</h3>
+                     <p>From Litte Witch Academia</p>
                      <p>2017/2018</p>
                      <p>Pencil on paper, digially colored in photoshop and photographed</p>
                    </div>
@@ -508,7 +509,7 @@ class Artarchive extends React.Component {
                      <img src="images/painting-1-2013.JPG" alt="guitar" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Colors that represent dark and light</h3>
+                     <h3>Colors that Represent Light and Dark Water Fountain</h3>
                      <p>2012</p>
                     <p>Paint on paper.</p>
                   </div>
