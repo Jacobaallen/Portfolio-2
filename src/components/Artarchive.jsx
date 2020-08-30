@@ -24,9 +24,9 @@ class Artarchive extends React.Component {
                     <img src="images/News-stories-2.png" alt="draw" width=  "550" height= "300"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>Anime Fan Helper News design</h3>
+                    <h3>Anime Fan Helper News Design</h3>
                     <p>2019- ongoing</p>
-                    <p>I created all the diffenerent disigns that apper on <a href="http://www.animefanhelper.com/index.html">Anime Fan Helper</a></p>
+                    <p><a href="http://www.animefanhelper.com/index.html">Anime Fan Helper</a></p>
                   </div>
                 </div>
               </div>
@@ -56,9 +56,9 @@ class Artarchive extends React.Component {
                     <img src="images/drawing-7-2019.png" alt="draw" width=  "550" height= "300"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>Concept T shirt design enchanting for Anime Fan Helper.</h3>
+                    <h3>Concept T-shirt Design Enchanting Anime Fan Helper</h3>
                     <p>2019</p>
-                    <p>Digially drawn on Ipad in Adobe Draw, edited in photoshop and photo taken by me.</p>
+                    <p>Digially drawn on Ipad in Adobe Draw, edited in photoshop and photographed</p>
                   </div>
                 </div>
               </div>
@@ -74,10 +74,9 @@ class Artarchive extends React.Component {
                     <img src="images/tshirt-concept-design.png" alt="draw" width=  "450" height= "600"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>Tshirt Concept Design</h3>
+                    <h3>T-shirt Concept Design</h3>
                     <p>2019</p>
-                    <p>pencil on paper, Ipad Draw, Adobe Photoshop, Adobe Illustrator</p>
-                    <p>Designed for a Art Gallery called Artec House, but never heard back from them after submiting the designs.</p>
+                    <p>Pencil on paper, Ipad Draw, Adobe Photoshop, Adobe Illustrator</p>
                   </div>
                 </div>
               </div>
@@ -94,7 +93,7 @@ class Artarchive extends React.Component {
                     <h3>Hotaru taking a selfie</h3>
                     <p>2019</p>
                    <p>Pencil on paper and screen capture from a Iphone</p>
-                   <p>Hotaru the main female character in Dagashi Kashi.</p>
+                   <p>Hotaru is main female character in Dagashi Kashi.</p>
                  </div>
                </div>
              </div>
@@ -159,7 +158,7 @@ class Artarchive extends React.Component {
                      <img src="images/drawing-15-gintama.png" alt="draw" width=  "550" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>End of gintama in Shonen Jump Weekly Comic</h3>
+                     <h3>End of Gintama in Shonen Jump Weekly Comic</h3>
                      <p>2019</p>
                      <p>Pencil on paper</p>
                    </div>
@@ -179,7 +178,7 @@ class Artarchive extends React.Component {
                      <div className="flip-card-back">
                        <h3>Luffy catching air.</h3>
                        <p>2018</p>
-                       <p>Pencil on paper then digially colored in photoshop.</p>
+                       <p>Pencil on paper then digially colored in photoshop</p>
                      </div>
                    </div>
                  </div>
@@ -193,9 +192,9 @@ class Artarchive extends React.Component {
                        <img src="images/drawing-1-2018.png" alt="draw" width=  "550" height= "300"/>
                      </div>
                      <div className="flip-card-back">
-                       <h3>Leo and Sonic eating Lunch from Rocket Burger's in front of down town NYC.</h3>
+                       <h3>Leo and Sonic eating Lunch from Rocket Burger's in front of downtown NYC.</h3>
                        <p>2017/2018</p>
-                       <p>Pencil on paper then digially colored in photoshop and photo taken by me too.</p>
+                       <p>Pencil on paper, digially colored in photoshop, and photographed</p>
                      </div>
                    </div>
                  </div>
@@ -211,7 +210,7 @@ class Artarchive extends React.Component {
                      <div className="flip-card-back">
                        <h3>Notebook Samurai</h3>
                        <p>2017/2018</p>
-                       <p>Pencil on paper then digially colored in photoshop. Photo taken by me.</p>
+                       <p>Pencil on paper, digially colored in photoshop, and photographed</p>
                      </div>
                    </div>
                  </div>
@@ -229,7 +228,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Fooly Cooly</h3>
                      <p>2017/2018</p>
-                     <p>Pencil on paper then digially colored in photoshop.</p>
+                     <p>Pencil on paper, digially colored in photoshop</p>
                    </div>
                  </div>
                </div>
@@ -245,7 +244,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Pink Diamond reveals her plan to Pearl.</h3>
                      <p>2017/2018</p>
-                    <p>Pencil on paper then digially colored in photoshop.</p>
+                    <p>Pencil on paper, digially colored in photoshop</p>
                   </div>
                 </div>
               </div>
@@ -261,7 +260,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Shiny Chariot flying though the night sky. From Litte Witch Academia</h3>
                      <p>2017/2018</p>
-                     <p>Pencil on paper then digially colored in photoshop. Photo taken by me.</p>
+                     <p>Pencil on paper, digially colored in photoshop and photographed</p>
                    </div>
                  </div>
                </div>
@@ -277,9 +276,9 @@ class Artarchive extends React.Component {
                      <img src="images/drawing-3-2018.png" alt="draw" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Anime Mascot Celebration.</h3>
+                     <h3>Anime Mascots Celebration</h3>
                      <p>2017/2018</p>
-                    <p>Pencil on paper then digially colored in photoshop and photo taken by me too.</p>
+                    <p>Pencil on paper, digially colored in photoshop and photographed</p>
                   </div>
                 </div>
               </div>
@@ -293,7 +292,7 @@ class Artarchive extends React.Component {
                      <img src="images/drawing-8-2017.JPG" alt="draw" width=  "550" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Luffy taking a nap.</h3>
+                     <h3>Luffy Taking a Nap</h3>
                      <p>2017</p>
                      <p>Pencil on paper</p>
                    </div>
@@ -311,7 +310,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Nami Taking a Break on The Clouds</h3>
                      <p>2017</p>
-                     <p>pencil and color pencil on paper</p>
+                     <p>Pencil and color pencil on paper</p>
                    </div>
                  </div>
                </div>
@@ -327,7 +326,7 @@ class Artarchive extends React.Component {
                      <img src="images/drawing-14-2017.jpg" alt="draw" width=  "550" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>R2 D2 on Star Wars Day.</h3>
+                     <h3>R2 D2 on Star Wars Day</h3>
                      <p>2017</p>
                      <p>Pencil on paper</p>
                    </div>
@@ -343,7 +342,7 @@ class Artarchive extends React.Component {
                      <img src="images/desgin-May-I-shoot-you.png" alt="design" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>T-shirt concept</h3>
+                     <h3>T-shirt Concept</h3>
                      <p>2015</p>
                     <p>Adobe photoshop and Photograph of my Eastman Kodak camera</p>
                   </div>
@@ -379,7 +378,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Sales Flyer</h3>
                      <p>2016</p>
-                     <p>Adobe Indesign. Done for the Real Estate company <a href= "http://www.southeastrealtygroup.net/index.html">South East Realty Group</a>. I created there Website for the company </p>
+                     <p>Adobe Indesign. Done for the Real Estate company <a href= "http://www.southeastrealtygroup.net/index.html">Southeast Realty Group</a></p>
                    </div>
                  </div>
                </div>
@@ -393,9 +392,9 @@ class Artarchive extends React.Component {
                      <img src="images/design-1-2015.jpg" alt="design" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Shoe Store sale mail out</h3>
+                     <h3>Shoe Store Sale Mail Out</h3>
                      <p>2015</p>
-                    <p>Adobe Indesign and photoshop. Done for the shoe store I was working at.</p>
+                    <p>Adobe Indesign and photoshop.</p>
                   </div>
                 </div>
               </div>
@@ -445,7 +444,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Dog Pitcher</h3>
                      <p>2013</p>
-                    <p>Clay fired at cone 10. Done for Wheel 2 college class.</p>
+                    <p>Clay fired at cone 10.</p>
                   </div>
                 </div>
               </div>
@@ -461,7 +460,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Ancient Arifact</h3>
                      <p>2014</p>
-                    <p>Clay fired at cone 10. Done for Hand Building 2 college class.</p>
+                    <p>Clay fired at cone 10.</p>
                   </div>
                 </div>
               </div>
@@ -479,7 +478,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Island House</h3>
                      <p>2014</p>
-                     <p>Clay fired at cone 10. Done for Hand Building 2 college class.</p>
+                     <p>Clay fired at cone 10.</p>
                    </div>
                  </div>
                </div>
@@ -493,9 +492,9 @@ class Artarchive extends React.Component {
                      <img src="images/painting-2-2013.jpg" alt="painting" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>In to the Sea</h3>
+                     <h3>Into the Sea</h3>
                      <p>2013</p>
-                    <p>Paint on paper, made using cut outs. Done for a drawing class.</p>
+                    <p>Paint on paper, made using cut outs.</p>
                   </div>
                 </div>
               </div>
@@ -509,9 +508,9 @@ class Artarchive extends React.Component {
                      <img src="images/painting-1-2013.JPG" alt="guitar" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Colors that repersent dark and light</h3>
+                     <h3>Colors that represent dark and light</h3>
                      <p>2012</p>
-                    <p>Paint on paper. Done for Color Fundmental</p>
+                    <p>Paint on paper.</p>
                   </div>
                 </div>
               </div>
@@ -529,7 +528,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Erasing Drawings 1</h3>
                      <p>2012</p>
-                     <p>Pencil on paper and gummy eraser. Done for a drawing class in college.</p>
+                     <p>Pencil on paper and gummy eraser.</p>
                    </div>
                  </div>
                </div>
