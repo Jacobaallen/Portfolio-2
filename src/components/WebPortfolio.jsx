@@ -20,7 +20,7 @@ class WebPortfolio extends React.Component {
               <a href="http://www.animefanhelper.com">
                 <img src="images/afh-1.png" alt="AnimeFanHelper" width="800" height="400"/>
               </a>
-              <div className="desc">Anime Fan Helper is a mulltifunction website that has anime related news stories, anime theme games, and your able to search for any anime you want using the Jikan API. I created it in 2019. I'm always upating the website.</div>
+              <div className="desc">Anime Fan Helper is a mulltifunction website that has anime related news stories, anime theme games, and you're able to search for any anime you want using the Jikan API. I created it in 2019. I'm always upating the website.</div>
             </div>
           </div>
           <div className="responsive">
@@ -72,7 +72,7 @@ class WebPortfolio extends React.Component {
                  <a href="https://github.com/rmbeavin/DishWish">
                    <img src="images/dishwish.png" alt="dishwish" width="800" height="400"/>
                  </a>
-                 <div className="desc">Dishwish was a 2018 Wyncode team project made at Wyncode.</div>
+                 <div className="desc">Dishwish was a 2018 Wyncode team project.</div>
                </div>
              </div>
            <div className="responsive">
@@ -106,7 +106,7 @@ class WebPortfolio extends React.Component {
                <a href="https://tourdeendofsummer.herokuapp.com/index.html">
                  <img src="images/Tourdeendofsummer.png" alt="TourDeEndofSummer" width="800" height="400"/>
                </a>
-               <div className="desc">A event sited I create using Adobe Dreamweaver in 2016.</div>
+               <div className="desc">An event site I created using Adobe Dreamweaver in 2016.</div>
              </div>
            </div>
            <div className="responsive">
