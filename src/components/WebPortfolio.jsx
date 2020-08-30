@@ -9,8 +9,7 @@ class WebPortfolio extends React.Component {
      <div className="bgimage-2">
         <div className="transbox">
           <div className="portfolio">
-            <p>Web Portfolio:</p>
-            <h6>Website that I have development and worked on.</h6>
+            <p>Web Portfolio</p>
           </div>
         </div>
       </div>
@@ -21,7 +20,7 @@ class WebPortfolio extends React.Component {
               <a href="http://www.animefanhelper.com">
                 <img src="images/afh-1.png" alt="AnimeFanHelper" width="800" height="400"/>
               </a>
-              <div className="desc">Anime Fan Helper is a mulltifunction website that has anime related news stories, anime theme games, and your able to search for any anime you want using the Jikan API. I Created it in 2019. I continue to make new news story and videos for it.</div>
+              <div className="desc">Anime Fan Helper is a mulltifunction website that has anime related news stories, anime theme games, and your able to search for any anime you want using the Jikan API. I created it in 2019. I'm always upating the website.</div>
             </div>
           </div>
           <div className="responsive">
@@ -29,7 +28,7 @@ class WebPortfolio extends React.Component {
               <a href="http://www.southeastrealtygroup.net/index.html">
                 <img src="images/SE-website.png" alt="southeast-realty-group" width="800" height="400"/>
               </a>
-              <div className="desc"> I created this site in 2019 for the company Southeast Realty Group Inc.</div>
+              <div className="desc"> I created this site in 2019 for the company Southeast Realty Group Inc. I maintain the site.</div>
             </div>
           </div>
           <div className="responsive">
@@ -37,7 +36,7 @@ class WebPortfolio extends React.Component {
               <a href="http://www.x1law.com">
                 <img src="images/x1law-website.png" alt="AnimeFanHelper" width="800" height="400"/>
               </a>
-              <div className="desc">I did not create the site. I updated the SEO and a few of the pages as well as many of the images all in WordPress in 2020.</div>
+              <div className="desc">I updated the SEO and a few of the pages as well as many of the images all in WordPress in 2020.</div>
             </div>
           </div>
         </div>
@@ -47,7 +46,7 @@ class WebPortfolio extends React.Component {
                <a href="https://github.com/Jacobaallen/Ichi.world">
                  <img src="images/Untitle-Travel.png" alt="Untitle-Travel" width="800" height="400"/>
                </a>
-               <div className="desc">This site current being built. It is a weekend travel app design to help users find things to do on the weekend. I am currently making it in 2019.</div>
+               <div className="desc">This is a weekend travel app designed to help users find things to do on the weekends. This project is on hold while activities are closed.</div>
              </div>
            </div>
            <div className="responsive">
@@ -55,7 +54,7 @@ class WebPortfolio extends React.Component {
                <a href="https://beat-blender.herokuapp.com/">
                  <img src="images/BeatBleader.png" alt="" width="800" height="400"/>
                </a>
-               <div className="desc">I was part of the team behind. BeatBleader, it uses Geolocation and the Spotify API to connect you with other people around you through music. It was my teams final project at Wyncode in 2019</div>
+               <div className="desc">BeatBleader, a 2019 Wyncode team project, uses Geolocation and the Spotify API to connect you with other people nearby through music.</div>
              </div>
            </div>
            <div className="responsive">
@@ -73,7 +72,7 @@ class WebPortfolio extends React.Component {
                  <a href="https://github.com/rmbeavin/DishWish">
                    <img src="images/dishwish.png" alt="dishwish" width="800" height="400"/>
                  </a>
-                 <div className="desc">Dishwish was a team project made at Wyncode. I was a part of. We created it in 2018.</div>
+                 <div className="desc">Dishwish was a 2018 Wyncode team project made at Wyncode.</div>
                </div>
              </div>
            <div className="responsive">
