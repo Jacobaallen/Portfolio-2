@@ -73,7 +73,7 @@ class Home extends React.Component {
            <a href="/WebPortfolio">
              <img src="images/websites-design-small.png" alt="AnimeFanHelper" width="800" height="600"/>
            </a>
-           <div className="desc">Websites.</div>
+           <div className="desc">Websites</div>
          </div>
        </div>
        <div className="responsive">
@@ -83,7 +83,7 @@ class Home extends React.Component {
            <a href="/Warning">
              <img src="images/art-design-2.png" alt="art" width="800" height="400"/>
            </a>
-           <div className="desc">Art and design.</div>
+           <div className="desc">Art & Design</div>
          </div>
        </div>
       </div>
