@@ -67,14 +67,6 @@ class WebPortfolio extends React.Component {
            </div>
          </div>
            <div className="row-2">
-             <div className="responsive">
-               <div className="gallery">
-                 <a href="https://github.com/rmbeavin/DishWish">
-                   <img src="images/dishwish.png" alt="dishwish" width="800" height="400"/>
-                 </a>
-                 <div className="desc">Dishwish was a 2018 Wyncode team project.</div>
-               </div>
-             </div>
            <div className="responsive">
              <div className="gallery">
                <a href="http://www.animefanhelper.com/whackaluffy.html">
@@ -92,13 +84,21 @@ class WebPortfolio extends React.Component {
              </div>
            </div>
          </div>
+         <div className="responsive">
+           <div className="gallery">
+             <a href="http://www.animefanhelper.com/spacebattle.html">
+               <img src="images/arcade-game-CBSB.png" alt="Space-battle" width="800" height="400"/>
+             </a>
+             <div className="desc">A multi level classic space shooter game. Created in 2019.</div>
+           </div>
+         </div>
          <div className="row-2">
            <div className="responsive">
              <div className="gallery">
-               <a href="http://www.animefanhelper.com/space-invaders.html">
-                 <img src="images/arcade-game-si.png" alt="Space-invaders" width="800" height="400"/>
+               <a href="https://github.com/rmbeavin/DishWish">
+                 <img src="images/dishwish.png" alt="dishwish" width="800" height="400"/>
                </a>
-               <div className="desc">Based on the most game popular ever made. Created in 2019.</div>
+               <div className="desc">Dishwish was a 2018 Wyncode team project.</div>
              </div>
            </div>
            <div className="responsive">

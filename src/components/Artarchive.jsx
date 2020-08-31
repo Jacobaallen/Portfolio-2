@@ -395,7 +395,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Shoe Store Sale Mail Out</h3>
                      <p>2015</p>
-                    <p>Adobe Indesign and photoshop.</p>
+                    <p>Adobe Indesign and photoshop</p>
                   </div>
                 </div>
               </div>
@@ -445,7 +445,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Dog Pitcher</h3>
                      <p>2013</p>
-                    <p>Clay fired at cone 10.</p>
+                    <p>Clay fired at cone 10</p>
                   </div>
                 </div>
               </div>
@@ -461,7 +461,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Ancient Arifact</h3>
                      <p>2014</p>
-                    <p>Clay fired at cone 10.</p>
+                    <p>Clay fired at cone 10</p>
                   </div>
                 </div>
               </div>
@@ -479,7 +479,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Island House</h3>
                      <p>2014</p>
-                     <p>Clay fired at cone 10.</p>
+                     <p>Clay fired at cone 10</p>
                    </div>
                  </div>
                </div>
@@ -495,7 +495,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Into the Sea</h3>
                      <p>2013</p>
-                    <p>Paint on paper, made using cut outs.</p>
+                    <p>Paint on paper, made using cut outs</p>
                   </div>
                 </div>
               </div>
@@ -511,7 +511,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Colors that Represent Light and Dark Water Fountain</h3>
                      <p>2012</p>
-                    <p>Paint on paper.</p>
+                    <p>Paint on paper</p>
                   </div>
                 </div>
               </div>
@@ -529,7 +529,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Erasing Drawings 1</h3>
                      <p>2012</p>
-                     <p>Pencil on paper and gummy eraser.</p>
+                     <p>Pencil on paper and gummy eraser</p>
                    </div>
                  </div>
                </div>
