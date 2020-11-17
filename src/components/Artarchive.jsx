@@ -51,6 +51,58 @@ class Artarchive extends React.Component {
           <div className="responsive">
             <div className="gallery">
               <div className="flip-card">
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/it-s-me.JPG" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>It's Me Usopp</h3>
+                    <p>2020</p>
+                    <p>Penicl on Paper. Doodle while waiting for dinner.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row-1">
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/compass.png" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>Southeast Realty Group Inc. new logo</h3>
+                    <p>2019</p>
+                    <p>Digially made in Photoshop 2019</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/Anime-fan-helper-logo.png" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>Anime Fan Helper logo</h3>
+                    <p>2019</p>
+                    <p>Digially made in Photoshop.</p>
+                    <p>Currently used on my website</p>
+                    <p><a href="http://www.animefanhelper.com/index.html">Anime Fan Helper</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
               <div className="flip-card-inner">
                   <div className="flip-card-front">
                     <img src="images/drawing-7-2019.png" alt="draw" width=  "550" height= "300"/>
@@ -411,6 +463,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Color Fall 2</h3>
                      <p>2015</p>
+                     <p>Beyond Light 2 Series</p>
                     <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
                   </div>
                 </div>
@@ -418,7 +471,24 @@ class Artarchive extends React.Component {
             </div>
            </div>
          </div>
-         <div className="row-1">
+         <div className="row-4">
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/river-of-color-at-night.jpg" alt="art" width=  "500" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>River of Color at Night</h3>
+                    <p>2015</p>
+                    <p>Beyond Light 2 Series</p>
+                    <p>Photography combined with calligraphy.</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -429,6 +499,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Evening Sunset</h3>
                      <p>2015</p>
+                     <p>Beyond Light 2 Series</p>
                      <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
                    </div>
                  </div>
@@ -440,16 +511,36 @@ class Artarchive extends React.Component {
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/clay-dog-pitcher-2013.jpg" alt="guitar" width=  "400" height= "600"/>
+                     <img src="images/morning-sunrise.jpg" alt="photo" width=  "500" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Dog Pitcher</h3>
-                     <p>2013</p>
-                    <p>Clay fired at cone 10</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+                     <h3>Morning Sunrise</h3>
+                     <p>2015</p>
+                     <p>Beyond Light 2 Series</p>
+                     <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+          </div>
+          <div className="row-1">
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+                 <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/love-2.png" alt="art" width=  "500" height= "300"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>Love 2</h3>
+                     <p>2015</p>
+                     <p>Beyond Light 2 Series</p>
+                     <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
            </div>
            <div className="responsive">
              <div className="gallery">
@@ -467,23 +558,39 @@ class Artarchive extends React.Component {
               </div>
             </div>
            </div>
-         </div>
-         <div className="row-4">
+            <div className="responsive">
+              <div className="gallery">
+                <div className="flip-card">
+                  <div className="flip-card-inner">
+                    <div className="flip-card-front">
+                      <img src="images/clay-island-house-2014.jpg" alt="clay" width=  "500" height= "300"/>
+                     </div>
+                    <div className="flip-card-back">
+                      <h3>Island House</h3>
+                      <p>2014</p>
+                      <p>Clay fired at cone 10</p>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div className="row-4">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/clay-island-house-2014.jpg" alt="clay" width=  "500" height= "300"/>
+                     <img src="images/clay-dog-pitcher-2013.jpg" alt="guitar" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Island House</h3>
-                     <p>2014</p>
-                     <p>Clay fired at cone 10</p>
-                   </div>
-                 </div>
-               </div>
-             </div>
+                     <h3>Dog Pitcher</h3>
+                     <p>2013</p>
+                    <p>Clay fired at cone 10</p>
+                  </div>
+                </div>
+              </div>
+            </div>
            </div>
            <div className="responsive">
              <div className="gallery">
