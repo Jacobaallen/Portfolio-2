@@ -20,7 +20,7 @@ class WebPortfolio extends React.Component {
               <a href="http://www.animefanhelper.com">
                 <img src="images/afh-1.png" alt="AnimeFanHelper" width="800" height="400"/>
               </a>
-              <div className="desc">Anime Fan Helper is a mulltifunction website that has anime related news stories, anime theme games, and you're able to search for any anime you want using the Jikan API. I created it in 2019. I'm always upating the website.</div>
+              <div className="desc">Anime Fan Helper is a mulltifunction website I created. The site has reviews, information, games, a search engine, and more. Created it in 2019-ongoing project.</div>
             </div>
           </div>
           <div className="responsive">
@@ -28,7 +28,7 @@ class WebPortfolio extends React.Component {
               <a href="http://www.southeastrealtygroup.net/index.html">
                 <img src="images/SE-website.png" alt="southeast-realty-group" width="800" height="400"/>
               </a>
-              <div className="desc"> I created this site in 2019 for the company Southeast Realty Group Inc. I maintain the site.</div>
+              <div className="desc"> I created this website in 2019 for Southeast Realty Group Inc. Created in 2019-ongoing updates</div>
             </div>
           </div>
           <div className="responsive">
@@ -36,7 +36,15 @@ class WebPortfolio extends React.Component {
               <a href="http://www.x1law.com">
                 <img src="images/x1law-website.png" alt="AnimeFanHelper" width="800" height="400"/>
               </a>
-              <div className="desc">I updated the SEO and a few of the pages as well as many of the images all in WordPress in 2020.</div>
+              <div className="desc">I updated an exsting WordPress website and SEO. 2020-ongoing.</div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <a href="https://www.shnoozr.com">
+                <img src="images/shnoozr.png" alt="shnoozr" width="800" height="400"/>
+              </a>
+              <div className="desc"> I did Web consulting work for Shnoozr in 2020.</div>
             </div>
           </div>
         </div>
@@ -46,7 +54,7 @@ class WebPortfolio extends React.Component {
                <a href="https://github.com/Jacobaallen/Ichi.world">
                  <img src="images/Untitle-Travel.png" alt="Untitle-Travel" width="800" height="400"/>
                </a>
-               <div className="desc">This is a weekend travel app designed to help users find things to do on the weekends. This project is on hold while activities are closed.</div>
+               <div className="desc">This is a weekend travel app designed to help users find things to do on the weekends. Created in 2019-on Hisutus as of 2020.</div>
              </div>
            </div>
            <div className="responsive">
@@ -54,7 +62,7 @@ class WebPortfolio extends React.Component {
                <a href="https://beat-blender.herokuapp.com/">
                  <img src="images/BeatBleader.png" alt="" width="800" height="400"/>
                </a>
-               <div className="desc">BeatBleader, a 2019 Wyncode team project, uses Geolocation and the Spotify API to connect you with other people nearby through music.</div>
+               <div className="desc">BeatBleader, a 2019 Wyncode team project, uses Geolocation and the Spotify API to connect you with other people nearby through music. Created in 2019-2019 done. </div>
              </div>
            </div>
            <div className="responsive">
@@ -62,34 +70,8 @@ class WebPortfolio extends React.Component {
                <a href="https://github.com/Jacobaallen/Weekend-Game-2">
                  <img src="images/game.png" alt="game" width="800" height="400"/>
                </a>
-               <div className="desc">Elder Tales is a game made for the terminal based on the anime "Log Horizon". I created it in 2019.</div>
+               <div className="desc">Elder Tales is a game made for the terminal based on the anime "Log Horizon". I created it in 2019-2019 done.</div>
              </div>
-           </div>
-         </div>
-           <div className="row-2">
-           <div className="responsive">
-             <div className="gallery">
-               <a href="http://www.animefanhelper.com/whackaluffy.html">
-                 <img src="images/whackaluffy0.png" alt="whackaluffy" width="800" height="400"/>
-               </a>
-               <div className="desc">Based on the anime One Piece and the game Whack-a-mole comes Whack-a-Luffy. Created in 2019.</div>
-             </div>
-           </div>
-           <div className="responsive">
-             <div className="gallery">
-               <a href="http://www.animefanhelper.com/space-invaders.html">
-                 <img src="images/arcade-game-si.png" alt="Space-invaders" width="800" height="400"/>
-               </a>
-               <div className="desc">Based on the most game popular ever made. Created in 2019.</div>
-             </div>
-           </div>
-         </div>
-         <div className="responsive">
-           <div className="gallery">
-             <a href="http://www.animefanhelper.com/spacebattle.html">
-               <img src="images/arcade-game-CBSB.png" alt="Space-battle" width="800" height="400"/>
-             </a>
-             <div className="desc">A multi level classic space shooter game. Created in 2019.</div>
            </div>
          </div>
          <div className="row-2">
