@@ -52,7 +52,7 @@ class Home extends React.Component {
       </div>
       <div className="button-master">
           <div className="resume-download">
-              <a href='my-resume-10.pdf' download>Download Resume</a>
+              <a href="#contact">Email me for my resume</a>
           </div>
         <div className="contact-button">
             <a className="contact-button" href="#contact">Contact Me</a>
@@ -121,11 +121,6 @@ class Home extends React.Component {
         <div className="icons-4">
           <img src="images/email-icon.png" alt="email" height="100" />
           <p>jacob@jacobaallen.com</p>
-        </div>
-        <div className="icons-5">
-          <img src="images/phone-icon-circle.png" alt="phone" height="100" width="100"/>
-          <p>(561) 315-5460</p>
-
         </div>
       </div>
     </div>
