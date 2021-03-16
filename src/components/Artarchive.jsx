@@ -21,6 +21,58 @@ class Artarchive extends React.Component {
               <div className="flip-card">
               <div className="flip-card-inner">
                   <div className="flip-card-front">
+                    <img src="images/afh-meme-logo.png" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>AFH Meme Logo</h3>
+                    <p>2021</p>
+                    <p>AFH Meme is a suvsidiay of Anime Fan Helper. It is account on Instagram</p>
+                    <p><a href="https://www.instagram.com/afh_meme/">AFH Meme on Instagram</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+              <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/I-want-to-live.JPG" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>I want to Live</h3>
+                    <p>2021</p>
+                    <p>Penicl on paper</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+              <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/milk.png" alt="draw" width=  "550" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>Cat Cafe Milk</h3>
+                    <p>2018 - 2020</p>
+                    <p>Pencil on paper (2018)</p>
+                    <p>Digially redrawn in Adobe Photoshop CS (2020)</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row-4">
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+              <div className="flip-card-inner">
+                  <div className="flip-card-front">
                     <img src="images/News-stories-2.png" alt="draw" width=  "550" height= "300"/>
                   </div>
                   <div className="flip-card-back">
@@ -637,6 +689,22 @@ class Artarchive extends React.Component {
                      <h3>Erasing Drawings 1</h3>
                      <p>2012</p>
                      <p>Pencil on paper and gummy eraser</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+                 <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/head.jpg" alt="draw" width=  "500" height= "300"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>Chilling in the Desert</h3>
+                     <p>2010</p>
+                     <p>Charcoal on paper.</p>
                    </div>
                  </div>
                </div>
