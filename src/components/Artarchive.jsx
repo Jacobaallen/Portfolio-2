@@ -472,18 +472,73 @@ class Artarchive extends React.Component {
             </div>
            </div>
          </div>
+         <div className="row-4">
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+                 <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/concert-poster-and-ticket.png" alt="design" width=  "500" height= "300"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>Fake Reel Big Fish Poster & Ticket</h3>
+                     <p>2016</p>
+                     <p>Adobe Indesign and Adobe Photoshop CC</p>
+                     <p>Was a project for my publication design class.</p>
+                     <p>The project was to desgin a concert poster and ticket.</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+                 <div className="flip-card-inner">
+                   <div className="flip-card-front">
+                     <img src="images/magazine-cover-and-centerfold.png" alt="design" width=  "400" height= "600"/>
+                   </div>
+                   <div className="flip-card-back">
+                     <h3>Fake Magazine Cover & Centerfold</h3>
+                     <p>2016</p>
+                    <p>Adobe Indesign, Adobe Photoshop CC, & Canon camera</p>
+                    <p> Was a project for my publication design class.</p>
+                    <p> The project was to design a magazine cover and centerfold.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+           </div>
+           <div className="responsive">
+             <div className="gallery">
+               <div className="flip-card">
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src="images/design-dunkin.jpg" alt="design" width=  "500" height= "300"/>
+                  </div>
+                  <div className="flip-card-back">
+                    <h3>Sales Flyer</h3>
+                    <p>2016</p>
+                    <p>Adobe Indesign. Done for the Real Estate company <a href= "http://www.southeastrealtygroup.net/index.html">Southeast Realty Group</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+           </div>
+         </div>
          <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/design-dunkin.jpg" alt="design" width=  "500" height= "300"/>
+                     <img src="images/sara-and-marcy-posters.png" alt="design" width=  "500" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Sales Flyer</h3>
-                     <p>2016</p>
-                     <p>Adobe Indesign. Done for the Real Estate company <a href= "http://www.southeastrealtygroup.net/index.html">Southeast Realty Group</a></p>
+                     <h3>Sara and Marcy Jewlery Posters and Flyers</h3>
+                     <p>2015-2016</p>
+                     <p>Adobe Indesign and Adobe Photoshop</p>
+                     <p>A collection of repetitive examples created to created a band image of a small jewelry sale business.</p>
                    </div>
                  </div>
                </div>
