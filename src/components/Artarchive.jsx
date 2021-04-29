@@ -11,7 +11,6 @@ class Artarchive extends React.Component {
         <div className="transbox">
           <div className="portfolio">
             <p>Art</p>
-            <h6>(Representative Example)</h6>
           </div>
         </div>
       </div>
