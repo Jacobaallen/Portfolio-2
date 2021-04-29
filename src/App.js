@@ -6,6 +6,7 @@ import Nav from './components/Nav';
 import Warning from './components/Warning';
 import Artarchive from './components/Artarchive';
 import WebPortfolio from './components/WebPortfolio';
+import Design from './components/Design';
 
 
 class App extends React.Component {
@@ -17,6 +18,7 @@ class App extends React.Component {
         <Route exact path="/warning" component={Warning} />
         <Route exact path="/artarchive" component={Artarchive} />
         <Route exact path="/WebPortfolio" component={WebPortfolio} />
+        <Route exact path="/Design" component={Design} />
         <Footer/>
       </Router>
     )
