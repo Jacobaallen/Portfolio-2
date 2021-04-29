@@ -10,7 +10,8 @@ class Artarchive extends React.Component {
      <div className="bgimage-2">
         <div className="transbox">
           <div className="portfolio">
-            <p>Art & Design</p>
+            <p>Art</p>
+            <h6>(Representative Example)</h6>
           </div>
         </div>
       </div>
@@ -21,13 +22,13 @@ class Artarchive extends React.Component {
               <div className="flip-card">
               <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="images/afh-meme-logo.png" alt="draw" width=  "550" height= "300"/>
+                    <img src="images/afh-meme-1.png" alt="draw" width=  "550" height= "300"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>AFH Meme Logo</h3>
+                    <h3>Fake One Piece X Dragon Ball Crossover</h3>
                     <p>2021</p>
-                    <p>AFH Meme is a suvsidiay of Anime Fan Helper. It is account on Instagram</p>
-                    <p><a href="https://www.instagram.com/afh_meme/">AFH Meme on Instagram</a></p>
+                    <p> Adobe Photoshop, images taken from across the web and screen capture of from One Piece.</p>
+                    <p>Created for AFH Meme. A suvsidiay of Anime Fan Helper. A Instagram account I run. <a href="https://www.instagram.com/afh_meme/">AFH Meme on Instagram</a></p>
                   </div>
                 </div>
               </div>
@@ -73,12 +74,12 @@ class Artarchive extends React.Component {
               <div className="flip-card">
               <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="images/News-stories-2.png" alt="draw" width=  "550" height= "300"/>
+                    <img src="images/kinro-dr-stone.jpg" alt="draw" width=  "550" height= "300"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>Anime Fan Helper News Design</h3>
-                    <p>2019- ongoing</p>
-                    <p><a href="http://www.animefanhelper.com/index.html">Anime Fan Helper</a></p>
+                    <h3>Kinro from Dr. Stone</h3>
+                    <p>2019</p>
+                    <p>penicl on paper</p>
                   </div>
                 </div>
               </div>
@@ -110,59 +111,7 @@ class Artarchive extends React.Component {
                   <div className="flip-card-back">
                     <h3>It's Me Usopp</h3>
                     <p>2020</p>
-                    <p>Penicl on Paper. Doodle while waiting for dinner.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="row-1">
-          <div className="responsive">
-            <div className="gallery">
-              <div className="flip-card">
-                <div className="flip-card-inner">
-                  <div className="flip-card-front">
-                    <img src="images/compass.png" alt="draw" width=  "550" height= "300"/>
-                  </div>
-                  <div className="flip-card-back">
-                    <h3>Southeast Realty Group Inc. new logo</h3>
-                    <p>2019</p>
-                    <p>Digially made in Photoshop 2019</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="responsive">
-            <div className="gallery">
-              <div className="flip-card">
-                <div className="flip-card-inner">
-                  <div className="flip-card-front">
-                    <img src="images/Anime-fan-helper-logo.png" alt="draw" width=  "550" height= "300"/>
-                  </div>
-                  <div className="flip-card-back">
-                    <h3>Anime Fan Helper logo</h3>
-                    <p>2019</p>
-                    <p>Digially made in Photoshop.</p>
-                    <p>Currently used on my website</p>
-                    <p><a href="http://www.animefanhelper.com/index.html">Anime Fan Helper</a></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="responsive">
-            <div className="gallery">
-              <div className="flip-card">
-              <div className="flip-card-inner">
-                  <div className="flip-card-front">
-                    <img src="images/drawing-7-2019.png" alt="draw" width=  "550" height= "300"/>
-                  </div>
-                  <div className="flip-card-back">
-                    <h3>Concept T-shirt Design Enchanting Anime Fan Helper</h3>
-                    <p>2019</p>
-                    <p>Digially drawn on Ipad in Adobe Draw, edited in photoshop and photographed</p>
+                    <p>Penicl on Paper. Doodle while waiting for dinner. The drawing is smaller then the palm of a hand.</p>
                   </div>
                 </div>
               </div>
@@ -175,12 +124,12 @@ class Artarchive extends React.Component {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="images/tshirt-concept-design.png" alt="draw" width=  "450" height= "600"/>
+                    <img src="images/lady-in-flower-dress.png" alt="draw" width=  "450" height= "600"/>
                   </div>
                   <div className="flip-card-back">
-                    <h3>T-shirt Concept Design</h3>
+                    <h3>Lady in Flower Dress</h3>
                     <p>2019</p>
-                    <p>Pencil on paper, Ipad Draw, Adobe Photoshop, Adobe Illustrator</p>
+                    <p>Pencil on paper redrawn and colored in Adobe Photoshop</p>
                   </div>
                 </div>
               </div>
@@ -398,31 +347,13 @@ class Artarchive extends React.Component {
                    </div>
                    <div className="flip-card-back">
                      <h3>Luffy Taking a Nap</h3>
-                     <p>2017</p>
+                     <p>2018</p>
                      <p>Pencil on paper</p>
                    </div>
                  </div>
                </div>
              </div>
            </div>
-           <div className="responsive">
-             <div className="gallery">
-               <div className="flip-card">
-               <div className="flip-card-inner">
-                   <div className="flip-card-front">
-                     <img src="images/drawing-13-2017.png" alt="draw" width=  "550" height= "300"/>
-                   </div>
-                   <div className="flip-card-back">
-                     <h3>Nami Taking a Break on The Clouds</h3>
-                     <p>2017</p>
-                     <p>Pencil and color pencil on paper</p>
-                   </div>
-                 </div>
-               </div>
-             </div>
-           </div>
-         </div>
-         <div className="row-1">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -432,60 +363,44 @@ class Artarchive extends React.Component {
                    </div>
                    <div className="flip-card-back">
                      <h3>R2 D2 on Star Wars Day</h3>
-                     <p>2017</p>
+                     <p>2018</p>
                      <p>Pencil on paper</p>
                    </div>
                  </div>
                </div>
              </div>
            </div>
-           <div className="responsive">
-             <div className="gallery">
-               <div className="flip-card">
-                 <div className="flip-card-inner">
-                   <div className="flip-card-front">
-                     <img src="images/desgin-May-I-shoot-you.png" alt="design" width=  "400" height= "600"/>
-                   </div>
-                   <div className="flip-card-back">
-                     <h3>T-shirt Concept</h3>
-                     <p>2015</p>
-                    <p>Adobe photoshop and Photograph of my Eastman Kodak camera</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-           </div>
-           <div className="responsive">
-             <div className="gallery">
-               <div className="flip-card">
-                 <div className="flip-card-inner">
-                   <div className="flip-card-front">
-                     <img src="images/design-logo-summer-bike.png" alt="art" width=  "400" height= "600"/>
-                   </div>
-                   <div className="flip-card-back">
-                     <h3>End of Summer Logo</h3>
-                     <p>2016</p>
-                    <p>Adobe Photoshop</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-           </div>
          </div>
          <div className="row-4">
-           <div className="responsive">
-             <div className="gallery">
-               <div className="flip-card">
-                 <div className="flip-card-inner">
-                   <div className="flip-card-front">
-                     <img src="images/concert-poster-and-ticket.png" alt="design" width=  "500" height= "300"/>
-                   </div>
-                   <div className="flip-card-back">
-                     <h3>Fake Reel Big Fish Poster & Ticket</h3>
-                     <p>2016</p>
-                     <p>Adobe Indesign and Adobe Photoshop CC</p>
-                     <p>Was a project for my publication design class.</p>
-                     <p>The project was to desgin a concert poster and ticket.</p>
+         <div className="responsive">
+           <div className="gallery">
+             <div className="flip-card">
+               <div className="flip-card-inner">
+                <div className="flip-card-front">
+                  <img src="images/recite.jpg" alt="draw" width=  "550" height= "300"/>
+                </div>
+                 <div className="flip-card-back">
+                   <h3>Delivery Dudes Signature</h3>
+                   <p>2017</p>
+                   <p>Pencil and on paper</p>
+                   <p>When I was working as a Delivery driver. I would sign the receipts I recived with a doodle</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                 <div className="flip-card-front">
+                   <img src="images/print.png" alt="draw" width=  "550" height= "300"/>
+                 </div>
+                  <div className="flip-card-back">
+                    <h3>Styrofoam Print</h3>
+                    <p>2017</p>
+                    <p>Watermarker on Styrofoam</p>
+                    <p>Created for a class I took at FAU to learn how to be a art teacher</p>
                    </div>
                  </div>
                </div>
@@ -495,50 +410,133 @@ class Artarchive extends React.Component {
              <div className="gallery">
                <div className="flip-card">
                  <div className="flip-card-inner">
-                   <div className="flip-card-front">
-                     <img src="images/magazine-cover-and-centerfold.png" alt="design" width=  "400" height= "600"/>
-                   </div>
+                  <div className="flip-card-front">
+                    <img src="images/pikachu.png" alt="draw" width=  "550" height= "300"/>
+                  </div>
                    <div className="flip-card-back">
-                     <h3>Fake Magazine Cover & Centerfold</h3>
-                     <p>2016</p>
-                    <p>Adobe Indesign, Adobe Photoshop CC, & Canon camera</p>
-                    <p> Was a project for my publication design class.</p>
-                    <p> The project was to design a magazine cover and centerfold.</p>
+                     <h3>Pikachu Words</h3>
+                     <p>2017</p>
+                     <p>pencil & markers on paper</p>
+                     <p>Created for a class I took at FAU to learn how to be a art teacher</p>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
+         </div>
+         <div className="row-4">
+         <div className="responsive">
+           <div className="gallery">
+             <div className="flip-card">
+               <div className="flip-card-inner">
+                <div className="flip-card-front">
+                  <img src="images/girl.jpg" alt="draw" width=  "550" height= "300"/>
+                </div>
+                 <div className="flip-card-back">
+                   <h3>Girl</h3>
+                   <p>2017</p>
+                   <p>Pencil on paper</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                 <div className="flip-card-front">
+                   <img src="images/drawing-13-2017.png" alt="draw" width=  "550" height= "300"/>
+                 </div>
+                  <div className="flip-card-back">
+                    <h3>Nami Taking a Break on The Clouds</h3>
+                    <p>2017</p>
+                    <p>Pencil and color pencil on paper</p>
+                   </div>
+                 </div>
+               </div>
+             </div>
            </div>
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
-                <div className="flip-card-inner">
+                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="images/design-dunkin.jpg" alt="design" width=  "500" height= "300"/>
+                    <img src="images/lucy-and-happy.png" alt="draw" width=  "550" height= "300"/>
                   </div>
-                  <div className="flip-card-back">
-                    <h3>Sales Flyer</h3>
-                    <p>2016</p>
-                    <p>Adobe Indesign. Done for the Real Estate company <a href= "http://www.southeastrealtygroup.net/index.html">Southeast Realty Group</a></p>
+                   <div className="flip-card-back">
+                     <h3>Lucy cosplaying as Happy</h3>
+                     <p>2016</p>
+                     <p>Pencil and color pencil on paper</p>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
+         </div>
+         <div className="row-4">
+          <div className="responsive">
+           <div className="gallery">
+             <div className="flip-card">
+               <div className="flip-card-inner">
+                 <div className="flip-card-front">
+                   <img src="images/kagura.jpg" alt="art" width=  "500" height= "300"/>
+                 </div>
+                 <div className="flip-card-back">
+                   <h3>Don't mess with Kagura</h3>
+                   <p>2016</p>
+                   <p>penicl on paper</p>
+                   <p>A example of a drawing from 2015</p>
+                 </div>
+               </div>
+             </div>
            </div>
          </div>
-         <div className="row-1">
+         <div className="responsive">
+           <div className="gallery">
+             <div className="flip-card">
+               <div className="flip-card-inner">
+                <div className="flip-card-front">
+                  <img src="images/nami.jpg" alt="draw" width=  "550" height= "300"/>
+                </div>
+                 <div className="flip-card-back">
+                   <h3>Nami</h3>
+                   <p>2016</p>
+                   <p>Pencil and color pencil on paper</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
                  <div className="flip-card-inner">
-                   <div className="flip-card-front">
-                     <img src="images/sara-and-marcy-posters.png" alt="design" width=  "500" height= "300"/>
-                   </div>
+                  <div className="flip-card-front">
+                    <img src="images/fox.jpg" alt="draw" width=  "550" height= "300"/>
+                  </div>
                    <div className="flip-card-back">
-                     <h3>Sara and Marcy Jewlery Posters and Flyers</h3>
-                     <p>2015-2016</p>
-                     <p>Adobe Indesign and Adobe Photoshop</p>
-                     <p>A collection of repetitive examples created to created a band image of a small jewelry sale business.</p>
+                     <h3>Curious Fox</h3>
+                     <p>2016</p>
+                     <p>Pencil on paper</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+         </div>
+         <div className="row-4">
+          <div className="responsive">
+            <div className="gallery">
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                 <div className="flip-card-front">
+                   <img src="images/usopp-the-hunter.jpg" alt="draw" width=  "550" height= "300"/>
+                 </div>
+                  <div className="flip-card-back">
+                    <h3>Usopp the Hunter</h3>
+                    <p>2015</p>
+                    <p>Pencil on paper</p>
                    </div>
                  </div>
                </div>
@@ -549,12 +547,13 @@ class Artarchive extends React.Component {
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/design-1-2015.jpg" alt="design" width=  "400" height= "600"/>
+                     <img src="images/photo-on-acrylic.png" alt="photo" width=  "400" height= "600"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Shoe Store Sale Mail Out</h3>
+                     <h3>Black & White Flower</h3>
                      <p>2015</p>
-                    <p>Adobe Indesign and photoshop</p>
+                    <p>Adobe photoshop and Canon T6i Rebel</p>
+                    <p>This photograph was commissioned artwork for a client. It was printed on a large Acrylic Print.</p>
                   </div>
                 </div>
               </div>
@@ -570,7 +569,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Color Fall 2</h3>
                      <p>2015</p>
-                     <p>Beyond Light 2 Series</p>
+                     <p>Created as part of my Beyond Light 2 Series</p>
                     <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
                   </div>
                 </div>
@@ -589,7 +588,7 @@ class Artarchive extends React.Component {
                   <div className="flip-card-back">
                     <h3>River of Color at Night</h3>
                     <p>2015</p>
-                    <p>Beyond Light 2 Series</p>
+                    <p>Created as part of my Beyond Light 2 Series</p>
                     <p>Photography combined with calligraphy.</p>
                    </div>
                  </div>
@@ -606,7 +605,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Evening Sunset</h3>
                      <p>2015</p>
-                     <p>Beyond Light 2 Series</p>
+                     <p>Created as part of my Beyond Light 2 Series</p>
                      <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
                    </div>
                  </div>
@@ -623,7 +622,7 @@ class Artarchive extends React.Component {
                    <div className="flip-card-back">
                      <h3>Morning Sunrise</h3>
                      <p>2015</p>
-                     <p>Beyond Light 2 Series</p>
+                     <p>Created as part of my Beyond Light 2 Series</p>
                      <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
                    </div>
                  </div>
@@ -631,19 +630,19 @@ class Artarchive extends React.Component {
              </div>
            </div>
           </div>
-          <div className="row-1">
+          <div className="row-4">
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
                  <div className="flip-card-inner">
                    <div className="flip-card-front">
-                     <img src="images/love-2.png" alt="art" width=  "500" height= "300"/>
+                     <img src="images/chopper.jpg" alt="art" width=  "500" height= "300"/>
                    </div>
                    <div className="flip-card-back">
-                     <h3>Love 2</h3>
+                     <h3>Chopper</h3>
                      <p>2015</p>
-                     <p>Beyond Light 2 Series</p>
-                     <p>Photographed using Canon T6i Rebel and digially edited in photoshop</p>
+                     <p>penicl on paper</p>
+                     <p>A example of a drawing from 2015</p>
                    </div>
                  </div>
                </div>
@@ -660,6 +659,7 @@ class Artarchive extends React.Component {
                      <h3>Ancient Arifact</h3>
                      <p>2014</p>
                     <p>Clay fired at cone 10</p>
+                    <p>Created for my Handbuilding 2 class</p>
                   </div>
                 </div>
               </div>
@@ -676,6 +676,7 @@ class Artarchive extends React.Component {
                       <h3>Island House</h3>
                       <p>2014</p>
                       <p>Clay fired at cone 10</p>
+                      <p>Created as my finial project in Handbuilding 2 class</p>
                      </div>
                    </div>
                  </div>
@@ -694,6 +695,7 @@ class Artarchive extends React.Component {
                      <h3>Dog Pitcher</h3>
                      <p>2013</p>
                     <p>Clay fired at cone 10</p>
+                    <p>Created for my Wheel 2 class</p>
                   </div>
                 </div>
               </div>
@@ -710,6 +712,7 @@ class Artarchive extends React.Component {
                      <h3>Into the Sea</h3>
                      <p>2013</p>
                     <p>Paint on paper, made using cut outs</p>
+                    <p> Created for a drawing class I took</p>
                   </div>
                 </div>
               </div>
@@ -726,6 +729,7 @@ class Artarchive extends React.Component {
                      <h3>Colors that Represent Light and Dark Water Fountain</h3>
                      <p>2012</p>
                     <p>Paint on paper</p>
+                    <p>Created for my Color Fundamental class.</p>
                   </div>
                 </div>
               </div>
@@ -733,6 +737,23 @@ class Artarchive extends React.Component {
            </div>
          </div>
          <div className="row-4">
+         <div className="responsive">
+           <div className="gallery">
+             <div className="flip-card">
+               <div className="flip-card-inner">
+                 <div className="flip-card-front">
+                   <img src="images/sandwitch.jpg" alt="photo" width=  "500" height= "300"/>
+                 </div>
+                 <div className="flip-card-back">
+                   <h3>Climbing Mount. Sandwich</h3>
+                   <p>2012</p>
+                   <p>Adobe Photoshop CS6 and Canon Rebel T3.</p>
+                   <p>Part of a photo series done for my Photography 2 class.</p>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
            <div className="responsive">
              <div className="gallery">
                <div className="flip-card">
@@ -744,6 +765,7 @@ class Artarchive extends React.Component {
                      <h3>Erasing Drawings 1</h3>
                      <p>2012</p>
                      <p>Pencil on paper and gummy eraser</p>
+                     <p>Made for My Drawing 2 class</p>
                    </div>
                  </div>
                </div>
@@ -760,6 +782,7 @@ class Artarchive extends React.Component {
                      <h3>Chilling in the Desert</h3>
                      <p>2010</p>
                      <p>Charcoal on paper.</p>
+                     <p>Created in Drawing 1 as my final project</p>
                    </div>
                  </div>
                </div>
