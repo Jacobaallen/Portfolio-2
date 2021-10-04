@@ -11,6 +11,7 @@ class Artarchive extends React.Component {
         <div className="transbox">
           <div className="portfolio">
             <p>Art</p>
+            <p><a href="https://www.instagram.com/jaart_nation/">Instagram art archive</a></p>
           </div>
         </div>
       </div>

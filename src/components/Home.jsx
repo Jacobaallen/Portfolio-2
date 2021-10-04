@@ -36,10 +36,14 @@ class Home extends React.Component {
         <h1>About</h1>
       </div>
       <p>
-        I was born and raised in West Palm Beach, Florida. I am a graduate of Wyncode where I earned my certification as a Full Stack Web Developer. Before Wyncode,
-        I studied studio art at Florida Atlantic University. I took post graduate courses in web design and publication design at Palm Beach State College while working
-        as a substitute teacher for the Palm Beach County School District. I combined my art background with coding to meet the needs of our growning technology based workforce.
-        I've focused on creating websites with an innovative and artistic vision. Now, I'd like to use my skills for the benefit of your organization.
+        I was born and raised in West Palm Beach, Florida. I am a graduate of Florida Atlantic University (FAU), Palm Beach State College (PBSC), and Wyncode Academy (WA). I have my BA in Studio Arts from FAU. I have my AA from PBSC. I also have my certification as a Full Stack Web Developer from WA.
+        I took post graduate courses in web design and publication design at PBSC, while working as a substitute teacher for the Palm Beach County School District. For the last 3 years I been a active freelancer.
+        Working on a various projects. From Website builds, creating orginal desisns including logos and car wraps to helping people with their social media presents.
+        I'm currently a part-time Panera Bread chef and freelance Graphic Designer and Web Developer. Now, I'd like to use my skills for the benefit of your organization.
+      </p>
+      <p>
+        For freelance, part-time, or full time postions:
+        I'm cuurently based in sunny Hallandale Beach, Florida. I am able to work remotely or inperson (For inperson I will need at least a week or 2 to reschedule with my current part-time job). I'm available to work on any project you may have. Contact me if you need my services.
       </p>
       <div className="list">
         <p>
@@ -48,7 +52,7 @@ class Home extends React.Component {
         <p>
           Libraries: React.JS, AngularJS, Rails, React on Rails
         </p>
-        <p>Programs: Adobe Photoshop, Adobe Indesign, Adobe Animate, Adobe After Effects, Adobe Illustrator, Imovie, Word, Excel, Pages, Numbers, Keynote, Atom, VSCode, Shopify </p>
+        <p>Programs: All of Adobe Cloud including Adobe Photoshop, Adobe Indesign, Adobe Animate, Adobe After Effects, Adobe Illustrator. I also know Imovie, Word, Excel, Power Point, Pages, Numbers, Keynote, Atom, VSCode, Shopify, and Wordpress.</p>
       </div>
       <div className="button-master">
           <div className="resume-download">
